@@ -1,0 +1,12 @@
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\bin\Release\netcoreapp3.1\countin- charecter.exe
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\bin\Release\netcoreapp3.1\countin- charecter.deps.json
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\bin\Release\netcoreapp3.1\countin- charecter.runtimeconfig.json
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\bin\Release\netcoreapp3.1\countin- charecter.runtimeconfig.dev.json
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\bin\Release\netcoreapp3.1\countin- charecter.dll
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\bin\Release\netcoreapp3.1\countin- charecter.pdb
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\obj\Release\netcoreapp3.1\countin- charecter.AssemblyInfoInputs.cache
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\obj\Release\netcoreapp3.1\countin- charecter.AssemblyInfo.cs
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\obj\Release\netcoreapp3.1\countin- charecter.csproj.CoreCompileInputs.cache
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\obj\Release\netcoreapp3.1\countin- charecter.dll
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\obj\Release\netcoreapp3.1\countin- charecter.pdb
+C:\Users\pmaity\Desktop\lc101\c#\ch-3-studio-3\obj\Release\netcoreapp3.1\countin- charecter.genruntimeconfig.cache
